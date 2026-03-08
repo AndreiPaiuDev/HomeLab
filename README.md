@@ -12,7 +12,7 @@ homelab.local
  └── Domain Controllers
 ```
 
-![Active Directory Structure](IMG01.png)
+<img scr="./Images/IMG01.png">
 
 ### Visual Diagram
 ```mermaid
