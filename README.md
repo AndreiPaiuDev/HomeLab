@@ -12,7 +12,7 @@ homelab.local
  └── Domain Controllers
 ```
 
-<img scr="./Images/IMG01.png">
+<img scr="./Images/IMG01.png"></img>
 
 ### Visual Diagram
 ```mermaid
