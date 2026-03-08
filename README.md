@@ -224,18 +224,6 @@ homelab.local/
  └── Security Baselines/
 </pre>
 
-<b>🚀 Getting Started</b>
-<ol>
-		<li>Clone the repository<br>
-				<pre>git clone https://github.com/your-username/homelab.git
-cd homelab</pre>
-		</li>
-		<li>Provision Windows Server VMs and join them to homelab.local</li>
-		<li>Install Active Directory Domain Services and Group Policy Management</li>
-		<li>Configure Organizational Units and Group Policy Objects as described above</li>
-		<li>Apply department-specific restrictions and workstation policies</li>
-		<li>Review and expand security baselines</li>
-</ol>
 
 <b>🚧 Next Steps (Planned Updates)</b>
 <ul>
